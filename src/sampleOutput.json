@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 215,
+"articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Gigazine.net"
+    },
+    "author": "@GIGAZINE",
+    "title": "Appleシリコン搭載Mac向けLinuxプロジェクト「Asahi Linux」がFedoraプロジェクトに参加して「Fedora Asahi Remix」をリリースすることを発表",
+    "description": "Appleシリコン搭載MacでLinuxを動作させることを目指すAsahi LinuxプロジェクトがFedoraプロジェクトに参加してフラッグシップディストリビューションとして「Fedora Asahi Remix」をリリースすることを発表しました。Fedora Asahi Remixのリリース時期は2023年8月末とされており、記事作成時点ではテスト版が公開されています。続きを読む...",
+    "url": "https://gigazine.net/news/20230807-asahi-linux-fedora-asahi-remix-mac/",
+    "urlToImage": "https://i.gzn.jp/img/2023/08/07/asahi-linux-fedora-asahi-remix-mac/00.png",
+    "publishedAt": "2023-08-07T02:40:00Z",
+    "content": "AppleMacLinuxAsahi LinuxFedoraFedora Asahi RemixFedora Asahi Remix20238\r\nOur new flagship distro: Fedora Asahi Remix - Asahi Linuxhttps://asahilinux.org/2023/08/fedora-asahi-remix/\r\nApple202011M1MacA… [+420 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "小暮ひさのり",
+    "title": "ちょっとホラー。Vision Pro開発機はAppleに監視されるらしい",
+    "description": "Vision Proの開発キットには、AirTag機能が含まれているみたい。つまり、Vision Proの場所はTuneにAppleが把握しているというわけ。",
+    "url": "https://www.gizmodo.jp/2023/08/vision-pro-apple-monitoring.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/08/07/20230807hek00.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-08-07T02:00:00Z",
+    "content": "AirTag\r\nAppleMRApple Vision Pro\r\nVision ProMacRumorsAppleAirTag\r\nVision ProApple\r\nApple iPhoneMacAirTag\r\nAppleMAX\r\nVision ProAirTag 2\r\nAirTagApple\r\nAirTag 2AirTag 2\r\nVision Pro \r\nSource: MacRumors"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "Casi 30% de descuento en el teléfono iPhone que es casi idéntico al iPhone 14: roza su precio mínimo",
+    "description": "No tiene mucho sentido comprar el iPhone 14 cuando se sigue vendiendo oficialmente el iPhone 13, que es casi idéntico al último teléfono de Apple en casi todos los aspectos. La versión de 512 GB en color (PRODUCT)RED se puede adquirir con una gran rebaja que …",
+    "url": "https://www.applesfera.com/seleccion/casi-30-descuento-telefono-iphone-que-casi-identico-al-iphone-14-roza-su-precio-minimo",
+    "urlToImage": "https://i.blogs.es/9398c6/iphone-13-en-oferta/840_560.jpeg",
+    "publishedAt": "2023-08-07T05:30:40Z",
+    "content": "No tiene mucho sentido comprar el iPhone 14 cuando se sigue vendiendo oficialmente el iPhone 13, que es casi idéntico al último teléfono de Apple en casi todos los aspectos. La versión de 512 GB en c… [+3189 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Presse-citron",
+    "title": "Je n’achèterai pas l’Apple Watch Series 9, pour une bonne raison",
+    "description": "Apparemment, Apple n'a que faire des métriques qui ornent ses fiches techniques. Mais doit-on encore s'en préoccuper ? C'est la question que l'on se pose dans ce dossier.",
+    "url": "https://www.presse-citron.net/je-nacheterai-pas-lapple-watch-series-9-pour-une-bonne-raison/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2023/08/apple-watch-series.webp",
+    "publishedAt": "2023-08-07T06:00:34Z",
+    "content": "<ul><li>L’Apple Watch Series 9 ne changerait presque pas, comparée à la Series 8 (mais cette dernière est déjà très performante)</li><li>Le processeur pourrait être un peu plus rapide</li><li>Un modè… [+2920 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Search Engine Journal"
+    },
+    "author": "Matt G. Southern",
+    "title": "Google On Trial: Antitrust Allegations Advance via @sejournal, @MattGSouthern",
+    "description": "U.S. District Court greenlights key antitrust lawsuits against Google, potentially paving the way for changes in digital advertising.\nThe post Google On Trial: Antitrust Allegations Advance appeared first on Search Engine Journal.",
+    "url": "https://www.searchenginejournal.com/google-on-trial-antitrust-allegations-advance/493327/",
+    "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/08/img_2023-08-06-200618-64d0362e5d380-sej.jpeg",
+    "publishedAt": "2023-08-07T00:10:43Z",
+    "content": "In a significant development in two antitrust lawsuits against Google, the U.S. District Court for the District of Columbia has dismissed some claims while allowing others to proceed to trial.\r\nThe l… [+3095 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "Palash Volvoikar",
+    "title": "Apple is testing another M3 Mac as chip nears October debut",
+    "description": "Apple is testing yet another Mac model powered by the upcoming M3 chip as the rumored launch of the chip in October draws closer.",
+    "url": "https://www.imore.com/mac/apple-is-testing-another-m3-mac-as-chip-nears-october-debut",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/peuiACAn4xLNYvkqo6pZqR-1200-80.jpeg",
+    "publishedAt": "2023-08-07T00:02:01Z",
+    "content": "Apple has finished its transition to its own Apple Silicon chips with its latest Mac Pro launch. Now that all of Apple's Macs are running on Apple Silicon, all of us are waiting to see what the next … [+1608 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xatakamovil.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "Las fechas claves de los nuevos iPhone: hasta Apple deja pistas de cuándo veremos los iPhone 15",
+    "description": "Cada vez queda menos para conocer el iPhone 15. O, mejor dicho, los iPhone 15 (en plural). Salvo sorpresa, volverán a ser cuatro modelos de móviles de alta gama los que Apple presente el próximo mes de septiembre. Sabemos que es el noveno mes del año el elegi…",
+    "url": "https://www.xatakamovil.com/apple/fechas-claves-nuevos-iphone-apple-deja-pistas-cuando-veremos-iphone-15",
+    "urlToImage": "https://i.blogs.es/04cb84/iphone-15-render/840_560.jpeg",
+    "publishedAt": "2023-08-07T06:00:14Z",
+    "content": "Cada vez queda menos para conocer el iPhone 15. O, mejor dicho, los iPhone 15 (en plural). Salvo sorpresa, volverán a ser cuatro modelos de móviles de alta gama los que Apple presente el próximo mes … [+4794 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Caschys Blog"
+    },
+    "author": "Olli",
+    "title": "Apple testet angeblich einen Mac mini mit M3-Chip",
+    "description": "Mark Gurman haut regelmäßig seinen Power-On-Newsletter raus, in dem er munter vor sich hin spekuliert, was Apple wohl demnächst Neues auf den Markt werfen könnte. Natürlich hat er laut eigener Aussagen auch immer seine ganz persönlichen Quellen, schließlich m…",
+    "url": "https://stadt-bremerhaven.de/apple-testet-angeblich-einen-mac-mini-mit-m3-chip/",
+    "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/02/mac-mini-tst-4.jpg",
+    "publishedAt": "2023-08-07T05:00:30Z",
+    "content": "Mark Gurman haut regelmäßig seinen Power-On-Newsletter raus, in dem er munter vor sich hin spekuliert, was Apple wohl demnächst Neues auf den Markt werfen könnte. Natürlich hat er laut eigener Aussag… [+2006 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Wwwhatsnew.com"
+    },
+    "author": "Juan Diego Polo",
+    "title": "Apple, Pixar, Nvidia, Adobe y Autodesk unen fuerzas en el mundo 3D",
+    "description": "En un movimiento que marca un hito en la industria tecnológica, cinco gigantes, Apple, Pixar, Nvidia, Adobe y Autodesk, han anunciado una colaboración sin precedentes. Su objetivo: establecer un estándar unificado para la creación de contenido 3D, una iniciat…",
+    "url": "https://wwwhatsnew.com/2023/08/07/apple-pixar-nvidia-adobe-y-autodesk-unen-fuerzas-en-el-mundo-3d/",
+    "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2023/08/tecnologia-5.jpg",
+    "publishedAt": "2023-08-07T04:00:43Z",
+    "content": "En un movimiento que marca un hito en la industria tecnológica, cinco gigantes, Apple, Pixar, Nvidia, Adobe y Autodesk, han anunciado una colaboración sin precedentes. Su objetivo: establecer un está… [+2025 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "GSMArena.com"
+    },
+    "author": "Chip",
+    "title": "Top 10 trending phones of week 31",
+    "description": "The Samsung Galaxy A54 was finally dethroned, the Redmi Note 12 topping our trending chart in week 31. Behind it we see the newly announced Infinix GT 10 Pro, which clearly impressed you guys. The Galaxy A54 is still close behind in third, so we would advise …",
+    "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_31-news-59447.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-952x498w6/gsmarena_003.jpg",
+    "publishedAt": "2023-08-07T00:52:01Z",
+    "content": "The Samsung Galaxy A54 was finally dethroned, the Redmi Note 12 topping our trending chart in week 31. Behind it we see the newly announced Infinix GT 10 Pro, which clearly impressed you guys. The Ga… [+639 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "01net.com"
+    },
+    "author": "Mickael Bazoge",
+    "title": "Un Mac mini encore plus puissant dans les tuyaux d’Apple, mais pour quand ?",
+    "description": "Sans trop de surprise, Apple devrait passer un maximum de Mac à la puce M3. Y compris le Mac mini qui est vraiment revenu dans les petits papiers d'Apple !",
+    "url": "https://www.01net.com/actualites/un-mac-mini-encore-plus-puissant-dans-les-tuyaux-dapple-mais-pour-quand.html",
+    "urlToImage": "https://www.01net.com/app/uploads/2023/08/Mac-Mini-2023_00.webp",
+    "publishedAt": "2023-08-07T05:30:45Z",
+    "content": "Sans trop de surprise, Apple devrait passer un maximum de Mac à la puce M3. Y compris le Mac mini qui est vraiment revenu dans les petits papiers d’Apple !À une époque, on avait craint un abandon pur… [+2236 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Valerie Complex",
+    "title": "Scene 2 Seen Podcast: Chris Robinson Discusses Newest Film ‘Shooting Stars’, Working With The Springhill Company, And Directing Human Driven Stories",
+    "description": "**Editor’s Note: This episode of Scene 2 Seen was taped before the July 14th start of the actor’s strike. Hello and welcome to the Scene 2 Seen podcast! I am Valerie Complex, and today we’re talking to director Chris Robinson about his latest directorial film…",
+    "url": "https://deadline.com/2023/08/scene-2-seen-podcast-chris-robinson-discusses-newest-film-shooting-stars-1235456194/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/297F99A8-DCC4-491B-BD17-2AB2DDD72C56.jpg?w=1024",
+    "publishedAt": "2023-08-07T05:58:29Z",
+    "content": "**Editor’s Note: This episode of Scene 2 Seen was taped before the July 14th start of the actor’s strike.\r\nHello and welcome to the Scene 2 Seen podcast! I am Valerie Complex, and today we’re talking… [+3765 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digiday"
+    },
+    "author": "Marty Swant",
+    "title": "Longtime Google exec joins AdBlock Plus Parent Eyeo as chief product officer",
+    "description": "Vegard Johnsen has spent the past decade on tools related to ad-fraud, ad-blocking, data privacy and content monetization.",
+    "url": "http://digiday.com/media-buying/longtime-google-exec-joins-adblock-plus-parent-eyeo-as-chief-product-officer/",
+    "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/08/IMG_1407.png",
+    "publishedAt": "2023-08-07T04:01:00Z",
+    "content": "When it comes to digital advertising, ad-blockers have often been at odds with the ad-tech world. Often portrayed by trade groups as a threat to the ad-funded economy, ad-blockers users conversely se… [+4667 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New Atlas"
+    },
+    "author": "Paul McClure",
+    "title": "Step in the right direction: App helps Parkinson’s sufferers walk better",
+    "description": "For people with Parkinson’s disease, the simple act of walking can require constant mental vigilance to maintain balance and avoid falling, which is exhausting. Researchers have now developed a free smartphone app that helps people with Parkinson’s improve th…",
+    "url": "https://newatlas.com/health-wellbeing/smartphone-app-helps-people-with-parkinsons-walk-better/",
+    "urlToImage": "https://assets.newatlas.com/dims4/default/2439ac1/2147483647/strip/true/crop/2000x1050+0+143/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F32%2F6a%2F807310e9468b83038ab296d0deae%2Fwalkingtall-app-1-copy.jpg&na.image_optimisation=0",
+    "publishedAt": "2023-08-07T02:41:22Z",
+    "content": "For people with Parkinsons disease, the simple act of walking can require constant mental vigilance to maintain balance and avoid falling, which is exhausting. Researchers have now developed a free s… [+3307 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Ben Sin, Contributor, \n Ben Sin, Contributor\n https://www.forbes.com/sites/bensin/",
+    "title": "Infinix GT 10 Pro Review: The Budget Gaming Phone",
+    "description": "Infinix isn’t a household name in the smartphone scene—at least not in the west or Asia.",
+    "url": "https://www.forbes.com/sites/bensin/2023/08/06/infinix-gt-10-pro-review-the-budget-gaming-phone/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64ce788e5c6326e1f4364b34/0x0.jpg?format=jpg&width=1200",
+    "publishedAt": "2023-08-07T02:00:19Z",
+    "content": "Infinix GT 10 Pro\r\nBen Sin\r\nInfinix isnt a household name in the smartphone sceneat least not in the west or Asia. Like its sister brand Tecno, Infinix had spent the last decade selling phones mostly… [+3101 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Forbes"
+    },
+    "author": "Bernard Marr, Contributor, \n Bernard Marr, Contributor\n https://www.forbes.com/sites/bernardmarr/",
+    "title": "Generative AI In Business: Why Accenture Is Investing $3 Billion In AI",
+    "description": "Accenture invests $3 billion in AI, doubling its team to leverage game-changing AI capabilities in business while addressing responsible AI and embracing the metaverse.",
+    "url": "https://www.forbes.com/sites/bernardmarr/2023/08/07/generative-ai-in-business-why-accenture-is-investing-3-billion-in-ai/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64d08c86321cd6f04a364b32/0x0.jpg?format=jpg&width=1200",
+    "publishedAt": "2023-08-07T06:18:39Z",
+    "content": "International technology consulting group Accenture has certainly been bitten hard by the generative AI bug. In coming years, it plans to double its headcount of data and AI experts from 40,000 to 80… [+7502 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (vn_ninja), vn_ninja",
+    "title": "Tổng hợp tin đồn về chip Apple A17 Bionic: 3nm, điểm hiệu năng tiệm cận M1...?",
+    "description": "Đã có một số tin đồn gần đây về chipset A17 Bionic mới trên dòng iPhone 15 sắp tới, với những thông tin đáng chú ý sau đây:\n\nNhiều khả năng sẽ chỉ được trang bị trên 2 mẫu iPhone 15 Pro, ra mắt vào ngày 13 tháng 9 tới đây\nSản xuất trên quy trình 3nm…",
+    "url": "https://tinhte.vn/thread/tong-hop-tin-don-ve-chip-apple-a17-bionic-3nm-diem-hieu-nang-tiem-can-m1.3700473/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/08/6521458_cover-Apple-A17-Bionic-tinhte.jpg",
+    "publishedAt": "2023-08-07T00:16:02Z",
+    "content": "Ri cng ko làm gì c Nh con iPad Pro ca mình gi cng ko bit con chip M2 làm gì )\r\n@oàn Minh Liêm\r\nEdit video trên Ipad.Qung cáo toàn thy dùng Macbook, iPad, thm chí iPhone render video. Ã LM.\r\nCòn thc t… [+7 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Lê Huyền Vân), Lê Huyền Vân",
+    "title": "Apple hợp tác với Google giải quyết vấn đề lạm dụng AirTag để theo dõi",
+    "description": "Apple và Google đã cùng nộp sáng kiến chung nhằm ngăn chặn việc lạm dụng các thiết bị theo dõi trực tuyến qua Bluetooth.\n \nSáng kiến của Apple và Google được đề xuất sẽ trở thành quy cách trong ngành và cũng đã nhận được sự ủng hộ của nhiều công ty…",
+    "url": "https://tinhte.vn/thread/apple-hop-tac-voi-google-giai-quyet-van-de-lam-dung-airtag-de-theo-doi.3685341/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6475935_Apple-Google.jpg",
+    "publishedAt": "2023-08-07T05:32:08Z",
+    "content": "Apple và Google ã cùng np sáng kin chung nhm ngn chn vic lm dng các thit b theo dõi trc tuyn qua Bluetooth.Sáng kin ca Apple và Google c xut s tr thành quy cách trong ngành và cng ã nhn c s ng h ca n… [+861 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (Pnghuy), Pnghuy",
+    "title": "Kính thực tế mở rộng XR của Samsung sẽ sớm được giới thiệu",
+    "description": "Việc Apple ra mắt chiếc kính Vision Pro đã khiến cho kế hoạch ra mắt chiếc kính của Samsung bị thay đổi và có thông tin cho rằng Samsung phải thay đổi lại thiết kế của kính. Lúc đầu kính XR (Extended Reality) của Samsung được định thời gian ra mắt…",
+    "url": "https://tinhte.vn/thread/kinh-thuc-te-mo-rong-xr-cua-samsung-se-som-duoc-gioi-thieu.3698400/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/08/6515602_cover-Samsung-XR-Heaset-Partnership-Google-Qualcomm-Galaxy-Unpacked-2023.jpeg",
+    "publishedAt": "2023-08-07T03:37:42Z",
+    "content": "Vic Apple ra mt chic kính Vision Pro ã khin cho k hoch ra mt chic kính ca Samsung b thay i và có thông tin cho rng Samsung phi thay i li thit k ca kính. Lúc u kính XR (Extended Reality) ca Samsung c … [+701 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "no-reply@tinhte.vn (thanhtung6868), thanhtung6868",
+    "title": "Lắp màn hình Android cho xe hơi, đây là những lợi ích có được",
+    "description": "Nâng cấp hay trang bị cho chiếc xe hơi một màn hình Android sẽ có thể mở rộng thêm loạt tính năng giải trí và tiện ích cho người sử dụng xe. Lợi thế là sử dụng hệ điều hành Android với kho ứng dụng phong phú…",
+    "url": "https://tinhte.vn/thread/lap-man-hinh-android-cho-xe-hoi-day-la-nhung-loi-ich-co-duoc.3699312/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/08/6521266_5276797_cover_tren_tay_man_hinh_giai_tri_lenovo_vietmap_d1_pro_tinhte.jpg",
+    "publishedAt": "2023-08-07T03:07:58Z",
+    "content": "Không th ph nhn các loi màn hình Android nói chung u có nhng im mnh nht nh khi i úng vào th hiu ngi dùng, ít nht ti th trng Vit Nam. Nhng im ct lõi nht cn quan tâm ó là s phù hp và tính n nh ca màn h… [+639 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Apple Has Admitted A Harsh Reality That May Negatively Affect Its Business; The U.S. Smartphone Market Has Been In A Decline For A While - Wccftech",
+    "description": "Apple Has Admitted A Harsh Reality That May Negatively Affect Its Business; The U.S. Smartphone Market Has Been In A Decline For A While  Wccftech",
+    "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vd2NjZnRlY2guY29tL2FwcGxlLWFkbWl0cy11cy1zbWFydHBob25lLWlzLWluLWRlY2xpbmUv0gFCaHR0cHM6Ly93Y2NmdGVjaC5jb20vYXBwbGUtYWRtaXRzLXVzLXNtYXJ0cGhvbmUtaXMtaW4tZGVjbGluZS9hbXAv?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+    "urlToImage": null,
+    "publishedAt": "2023-08-07T04:13:00Z",
+    "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Twistedsifter.com"
+    },
+    "author": "Trisha Leigh",
+    "title": "‘Oh she’s beautiful, but not as pretty as my Sofia.’ Should This Uncle Apologize For Lashing Out At His Niece After Her Mother Keeps Bragging About Her Daughter",
+    "description": "This is one of those situations where all of the adults are wrong and everyone feels badly for the kids – so buckle up. OP and his wife are new parents. His sister has a 10yo daughter who is a model/actress and who is the apple of her mother’s eye – perhaps t…",
+    "url": "http://twistedsifter.com/2023/08/oh-shes-beautiful-but-not-as-pretty-as-my-sofia-should-this-uncle-apologize-for-lashing-out-at-his-niece-after-her-mother-keeps-bragging-about-her-daughter/",
+    "urlToImage": "https://twistedsifter.com/wp-content/uploads/2023/08/UncleInsultsNiece.png",
+    "publishedAt": "2023-08-07T02:11:41Z",
+    "content": "This is one of those situations where all of the adults are wrong and everyone feels badly for the kids – so buckle up.\r\nOP and his wife are new parents. His sister has a 10yo daughter who is a model… [+3936 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "AppleのiMessage、Threadsのリッチリンクプレビューに対応",
+    "description": "9To5Macによると、Appleの「iMessage」がMetaのSNS「Threads」の投稿のURLを共有した際にリッチリンクプレビューの表示に対応したことが分かりました。 これにより、ユーザーがiMessageで ...",
+    "url": "https://taisy0.com/2023/08/07/175002.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2023/07/th_skynews-threads-meta-instagram_6207128.jpg",
+    "publishedAt": "2023-08-07T00:03:24Z",
+    "content": "Twitter BlueX BlueX Premium"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macitynet.it"
+    },
+    "author": "Fabrizio Frattini",
+    "title": "iPhone 15 e iPhone Pro nei negozi il 22 settembre",
+    "description": "Apple prepara il lancio del nuovo iPhone. Probabile l’annuncio il 12 settembre con un arrivo suglio scaffali dei negozi venerdì 22 settembre.\n- su macitynet.it iPhone 15 e iPhone Pro nei negozi il 22 settembre",
+    "url": "https://www.macitynet.it/data-di-lancio-di-iphone-15-e-iphone-15-pro/",
+    "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/03/cornici-schermo-iphone-15-Pro-Max.jpeg",
+    "publishedAt": "2023-08-07T05:59:46Z",
+    "content": "Sorpresa, ma non troppo: i nuovi iPhone saranno presentati il 12 o il 13 settembre. La notizia che nella seconda settimana di settembre, Apple introdurrà gli iPhone 15 e iPhone 15 Pro, diffusa oggi d… [+1768 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Telegraph.co.uk"
+    },
+    "author": "James Ashton",
+    "title": "How Britain lost its quirky tech champion to the US and ‘growth at all costs’",
+    "description": "When the chip designer Arm shortly sells shares in this year’s most closely watched initial public offering (IPO), it will represent for many the final...",
+    "url": "https://www.telegraph.co.uk/business/2023/08/07/how-britain-lost-its-quirky-chip-champion-to-the-us/",
+    "urlToImage": "https://media.zenfs.com/en/the_telegraph_258/41be5538fb4df1121d4d92d85e20cc68",
+    "publishedAt": "2023-08-07T05:00:00Z",
+    "content": "When the chip designer Arm shortly sells shares in this years most closely watched initial public offering (IPO), it will represent for many the final Americanisation of a great British company.\r\nBor… [+9251 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SamMobile"
+    },
+    "author": "Sagar Naresh",
+    "title": "Samsung had to freeze imports of laptops and table​ts to India",
+    "description": "The Indian government suddenly decided to ban inbound shipments of laptops and tablets without a license, and Samsung is among the major brands that have adhered to the new rule. Apple and HP are also among the big names that have stopped the import of laptop…",
+    "url": "https://www.sammobile.com/news/samsung-freezes-new-imports-of-laptops-tablets-to-india-after-sudden-curbs/",
+    "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/02/Samsung-Galaxy-Book-3-Ultra-Samsung-Notes-720x405.jpg",
+    "publishedAt": "2023-08-07T06:15:05Z",
+    "content": "The Indian government suddenly decided to ban inbound shipments of laptops and tablets without a license, and Samsung is among the major brands that have adhered to the new rule. Apple and HP are als… [+1553 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Unwire.hk"
+    },
+    "author": "唐美鳳",
+    "title": "AirTag 第二代研發中 傳明年第四季投產和推出",
+    "description": "不時作出 Apple 產品相關預測和爆料的著名分析師郭明錤，在去年 6 月時曾經表示 AirTag 追蹤器在 2021 和 2022 年的出貨量，分別為 2,000 萬枚和 3,500 萬枚，當時他認為 AirTag 出貨量如果能持續增長，Apple 就會開發第二代後續產品。\nThe post AirTag 第二代研發中 傳明年第四季投產和推出 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+    "url": "https://unwire.hk/2023/08/07/apple-airtags-2-may-launch-2024/notebook/gadgets/",
+    "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/08/03-3.png",
+    "publishedAt": "2023-08-07T03:13:04Z",
+    "content": "Apple 6 AirTag 2021 2022 2,000 3,500 AirTag Apple \r\n X AirTag 2024 Apple 6 WWDC Apple Vision Pro AirTag \r\n AirTag Apple U2 2021 4 AirTag Apple U1 UWB \r\ntomsguide\r\n==Follow Threads : &lt;&gt;=="
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Courrier International"
+    },
+    "author": null,
+    "title": "“Les Sentinelles”. David Smith et Haoua, au lac Tchad : “Nous avons voulu créer une radio régionale d’utilité publique”",
+    "description": "Société, environnement, genre, économie… Après “Six pieds sur Terre”, “Courrier international” et l’Agence française de développement présentent leur nouveau podcast, “Les Sentinelles”, des voix d’ailleurs pour un monde en commun. Première série, la liberté d…",
+    "url": "https://www.courrierinternational.com/article/podcast-les-sentinelles-david-smith-et-haoua-au-lac-tchad-nous-avons-voulu-creer-une-radio-regionale-d-utilite-publique",
+    "urlToImage": "https://focus.courrierinternational.com/2023/08/03/0/0/2560/1706/1200/630/60/0/4789158_1691073765625-sentinelles-site.png",
+    "publishedAt": "2023-08-07T03:00:21Z",
+    "content": "Société, environnement, genre, économie Après Six pieds sur Terre,Courrier international et lAgence française de développement (AFD) présentent leur nouveau podcast, Les Sentinelles, des voix dailleu… [+2125 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AdExchanger"
+    },
+    "author": "AdExchanger",
+    "title": "WPP Must Bridge A ‘Shortfall’ In The US; Amazon Opens Whole Foods To The Whole SKU",
+    "description": "Here’s today’s AdExchanger.com news round-up… Want it by email? Sign up here. A Slow Slide WPP reported lackluster Q2 results during its earnings call on Friday.  The agency holding company\nThe post WPP Must Bridge A ‘Shortfall’ In The US; Amazon Opens Whole …",
+    "url": "http://www.adexchanger.com/ad-exchange-news/monday-07082023/",
+    "urlToImage": "https://www.adexchanger.com/wp-content/uploads/2017/12/primed.jpg",
+    "publishedAt": "2023-08-07T04:03:38Z",
+    "content": "Heres todays AdExchanger.com news round-up Want it by email? Sign up here.\r\nA Slow Slide\r\nWPP reported lackluster Q2 results during its earnings call on Friday. \r\nThe agency holding company saw a sho… [+3546 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iphone-ticker.de › iPhone-News seit 2007"
+    },
+    "author": "chris",
+    "title": "iPhone 15 voraussichtlich ab 22. September im Handel",
+    "description": "Letzte Woche hat sich schon angedeutet, dass Apples iPhone-Event auch in diesem Jahr in der zweiten September-Woche stattfinden wird – fragt sich nur, ob Apple den eigentlich standesgemäßen Dienstag oder wie im vergangenen Jahr den Mittwoch für die Ankündigun…",
+    "url": "https://www.iphone-ticker.de/iphone-15-voraussichtlich-ab-22-august-im-handel-218447/",
+    "urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2023/08/cook-joswiak-apple-store-feature.jpg",
+    "publishedAt": "2023-08-07T04:58:53Z",
+    "content": "Letzte Woche hat sich schon angedeutet, dass Apples iPhone-Event auch in diesem Jahr in der zweiten September-Woche stattfinden wird – fragt sich nur, ob Apple den eigentlich standesgemäßen Dienstag … [+2090 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIE WELT"
+    },
+    "author": "Anja Ettel, Holger Zschäpitz",
+    "title": "Die besten Space-Investments und die klügste Aktie der Welt",
+    "description": "In der heutigen Folge „Alles auf Aktien“ sprechen die Finanzjournalisten Anja Ettel und Holger Zschäpitz über das Vonovia-Debakel, den Milliarden-Hype um Barbie und eine persönliche Ungarn-Bilanz.",
+    "url": "https://www.welt.de/podcasts/alles-auf-aktien/article246774336/Boersen-Podcast-Warren-Buffets-Berkshire-Holding-das-steckt-hinter-der-kluegsten-Aktie-der-Welt.html",
+    "urlToImage": "https://img.welt.de/img/podcasts/alles-auf-aktien/mobile228293627/5361351857-ci16x9-w1200/DWO-Podcast-AllesaufAktien-Zschaepitz-Ettel.jpg",
+    "publishedAt": "2023-08-07T03:00:12Z",
+    "content": "Außerdem geht es um Apple, Amazon, Expat Hungary BUX ETF (WKN: A2JB7B) SG BUX-Indextracker (WKN: SG06BX), WarnerBros Discovery, Pfizer, Moderna, Biontech, Vonovia, Berkshire Hathaway, Coca Cola, Amer… [+649 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ipadizate.com"
+    },
+    "author": "Ángel Roca",
+    "title": "Tim Cook dice que usa las Apple Vision Pro todos los días",
+    "description": "Las Apple Vision Pro son uno de los dispositivos más ambiciosos que ha lanzado Apple, pero este tipo de gafas de realidad virtual suelen tener usos algo limitados. Es cierto que el concepto de Apple es revolucionario, pero la verdad es que la mayoría de usuar…",
+    "url": "https://ipadizate.com/apple-vision/tim-cook-dice-que-usa-las-apple-vision-pro-todos-los-dias",
+    "urlToImage": "https://ipadizate.com/hero/2023/08/tim-cook-vision-pro.jpg?width=1200",
+    "publishedAt": "2023-08-07T06:02:02Z",
+    "content": "¿Usarías las Apple Vision Pro todos los días?\r\nLas Apple Vision Pro son uno de los dispositivos más ambiciosos que ha lanzado Apple, pero este tipo de gafas de realidad virtual suelen tener usos algo… [+2268 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vnexpress.net"
+    },
+    "author": "Huy Đức",
+    "title": "iPhone 15 dự kiến ra ngày 13/9",
+    "description": "Lễ công bố iPhone 15 được cho là sẽ diễn ra vào tuần thứ hai của tháng 9 và mở bán từ ngày 22/9.",
+    "url": "https://vnexpress.net/iphone-15-du-kien-ra-ngay-13-9-4638510.html",
+    "urlToImage": "https://vcdn1-sohoa.vnecdn.net/2023/08/07/iphone-15-pro-blue-front-persp-5225-2475-1691345047.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MezgvDODBqSoMWGYgnMj1Q",
+    "publishedAt": "2023-08-07T05:00:00Z",
+    "content": "L công b iPhone 15 c cho là s din ra vào tun th hai ca tháng 9 và m bán t ngày 22/9.Theo chuyên gia Mark Gurman ca Bloomberg, s kin c ch i nht hàng nm ca Apple c t chc vào th Ba 12/9 hoc th T ngày 13… [+964 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Just Jared"
+    },
+    "author": "Just Jared",
+    "title": "Dan + Shay Thought They Were Going To Break Up As A Band Before 'Always Gonna Be' & New Album",
+    "description": "Dan and Shay have revealed that they almost broke up the band. The popular country duo, who are set to release their new album Bigger Houses next month, spoke to Zane Lowe on Apple Music 1 in a new interview and opened up about the thoughts of taking a break …",
+    "url": "https://www.justjared.com/2023/08/06/dan-shay-thought-they-were-going-to-break-up-as-a-band-before-always-gonna-be-new-album/",
+    "urlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/08/danshay-break.jpg",
+    "publishedAt": "2023-08-07T01:17:56Z",
+    "content": "Dan and Shay have revealed that they almost broke up the band.\r\nThe popular country duo, who are set to release their new album Bigger Houses next month, spoke to Zane Lowe on Apple Music 1 in a new … [+1958 chars]"
+    },
+    {
+    "source": {
+    "id": "wirtschafts-woche",
+    "name": "Wirtschafts Woche"
+    },
+    "author": "Philipp Frohn",
+    "title": "Podcast – BörsenWoche: Mit „Copy and Paste“ zur Mega-Rendite? Warum Anleger bei eToro und Co. vorsichtig sein sollten",
+    "description": "Im Podcast erklärt Verbraucherschützerin Annabel Oelmann, warum die angepriesenen Top-Renditen der Trader irreführend sein können, wo die Gefahren des Copy Tradings liegen – und wieso Anleger viel Geld verlieren können.",
+    "url": "https://www.wiwo.de/podcast/boersenwoche/podcast-boersenwoche-mit-copy-and-paste-zur-mega-rendite-warum-anleger-bei-etoro-und-co-vorsichtig-sein-sollten/29296474.html",
+    "urlToImage": "https://www.wiwo.de/images/100-pro-imago-life-2-141076966-highres/29252000/3-format11240.jpg",
+    "publishedAt": "2023-08-07T05:46:58Z",
+    "content": "Es klingt so schön einfach: Mit einem Klick das Aktienportfolio eines Top-Traders kopieren, sich zurücklehnen und am Ende eine fette Rendite einstreichen. Anbieter wie eToro, Naga oder Wikifolio offe… [+1696 chars]"
+    },
+    {
+    "source": {
+    "id": "wirtschafts-woche",
+    "name": "Wirtschafts Woche"
+    },
+    "author": "Wirtschaftswoche",
+    "title": "Dax-Kurs heute: Dax niedriger erwartet – Firmenbilanzen im Blick",
+    "description": "Lesen Sie hier aktuelle News und die neuesten Nachrichten von heute zum Dax. Index-Entwicklung und Realtime-Kurs auf einen Blick.",
+    "url": "https://www.wiwo.de/finanzen/boerse/dax-kurs-heute-dax-niedriger-erwartet-firmenbilanzen-im-blick/29094198.html",
+    "urlToImage": "https://www.wiwo.de/images/imago0063329472h/29094292/2-format11240.jpg",
+    "publishedAt": "2023-08-07T05:51:56Z",
+    "content": "Am Freitag hat der Dax dank positiv aufgenommener US-Arbeitsmarktdaten 0,4 Prozent höher bei 15.951,86 Punkten geschlossen. Die europäische Bilanzsaison hält Investoren weiterhin auf Trab: Allein aus… [+17491 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Jacob Stolworthy",
+    "title": "Netflix leaves fans distraught as it announces end of beloved series",
+    "description": "Users will soon have one less reason to subscribe",
+    "url": "https://www.independent.co.uk/arts-entertainment/tv/news/is-disenchantment-cancelled-season-5-b2388647.html",
+    "urlToImage": "https://static.independent.co.uk/2023/08/03/13/newFile-1.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-08-07T04:17:15Z",
+    "content": "Sign up to our free IndyArts newsletter for all the latest entertainment news and reviews\r\nSign up to our free IndyArts newsletter\r\nNetflix users are reacting to the revelation that an acclaimed seri… [+2294 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Lindsey Bahr",
+    "title": "Barbie has sailed past $1 billion in global ticket sales",
+    "description": "Barbie is now the biggest to be directed by one woman, breaking a record for female directors that was previously held by Patty Jenkins",
+    "url": "https://www.independent.co.uk/arts-entertainment/films/news/barbie-1-billion-global-ticket-sales-greta-gerwig-b2388634.html",
+    "urlToImage": "https://static.independent.co.uk/2023/07/26/10/Greta-Gerwig-Margot-Robbie-Barbie.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-08-07T03:48:37Z",
+    "content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nIn just three weeks in theaters, Greta Gerwigs Barbie ha… [+2897 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Yuri Kageyama",
+    "title": "Stock market today: Asian benchmarks mostly slip after Wall Street's losing week",
+    "description": "Asian shares are trading mostly lower after U.S. employment data had Wall Street close out a losing week",
+    "url": "https://www.independent.co.uk/news/ap-wall-street-asian-tokyo-dow-jones-industrial-average-b2388640.html",
+    "urlToImage": "https://static.independent.co.uk/2023/08/07/05/Japan_Financial_Markets_58283.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-08-07T03:57:13Z",
+    "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nAsian shares were trading mostly lower on Monday aft… [+2504 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "Core i5+16GBメモリ搭載の「MacBook Pro」が11万円！Qualitで中古品セール",
+    "description": "Appleの13.3型ノートPC「MacBook Pro(MWP72J/A)」の中古品が、横河レンタ・リースが運営する通販サイト「Qualit」で特価販売中。",
+    "url": "https://akiba-pc.watch.impress.co.jp/docs/usedpc_hotline/1522018.html",
+    "urlToImage": "https://akiba-pc.watch.impress.co.jp/img/ah/list/1522/018/asale1.jpg",
+    "publishedAt": "2023-08-07T03:00:00Z",
+    "content": "Apple13.3PCMacBook Pro(MWP72J/A)Qualit\r\n ()C110,00012 \r\n 13.3Retina(2,560×1,600)CPUCore i52.0GHz16GB512GB SSDOSmacOS 10.15 Catalina"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TidBITS"
+    },
+    "author": "Julio Ojeda-Zapata",
+    "title": "The Beats Go On: Apple Subsidiary Releases Studio Pro Headphones, Studio Buds+ Earbuds",
+    "description": "No search for Apple earbuds or headphones is complete without weighing what’s on offer from Apple subsidiary Beats By Dre. Releases include flagship Studio Pro headphones and a modest update to its 2021 Studio Buds.",
+    "url": "https://tidbits.com/2023/08/06/the-beats-go-on-apple-subsidiary-releases-studio-pro-headphones-studio-buds-earbuds/",
+    "urlToImage": "https://tidbits.com/wp/../uploads/2023/08/comparison-spreadsheet.jpg",
+    "publishedAt": "2023-08-07T00:50:06Z",
+    "content": "Most who shop for Apple wireless earbuds or headphones will stick to products with AirPods in their names. But the companys wireless-audio line is more extensivemaking your research more complicated,… [+11942 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AOL"
+    },
+    "author": "YURI KAGEYAMA",
+    "title": "Stock market today: Asian benchmarks mostly slip after Wall Street's losing week",
+    "description": "Asian shares were trading mostly lower on Monday after U.S. employment data had Wall Street close out a losing week. Investors are also closely watching...",
+    "url": "https://www.aol.com/news/stock-market-today-asian-benchmarks-035712794.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tQtQuHZ.Mgl_BOo1zYuCZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/136af6447488a760e78c98ff396a318d",
+    "publishedAt": "2023-08-07T03:57:12Z",
+    "content": "TOKYO (AP) Asian shares were trading mostly lower on Monday after U.S. employment data had Wall Street close out a losing week.\r\nInvestors are also closely watching earnings reports due later this we… [+2359 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Brett Miller and Tassia Sipahutar",
+    "title": "Asian Equities Decline After US Rally Reverses: Markets Wrap",
+    "description": "(Bloomberg) -- Most Asian shares fell Monday after a mixed US jobs report and a reversal of gains on Wall Street that saw the S&P 500 lose a near 1...",
+    "url": "https://finance.yahoo.com/news/asian-equities-decline-us-rally-003352312.html",
+    "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/0a83165776018bf51ee4b4c012869198",
+    "publishedAt": "2023-08-07T00:33:52Z",
+    "content": "(Bloomberg) -- Most Asian shares fell Monday after a mixed US jobs report and a reversal of gains on Wall Street that saw the S&amp;P 500 lose a near 1% gain.\r\nMost Read from Bloomberg\r\nBenchmark ind… [+4446 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Horizont.net"
+    },
+    "author": "HORIZONT Online / dpa",
+    "title": "US-Wettbewerbsklage: Richter schränkt Vorwürfe gegen Google ein",
+    "description": "Google wird sich im Prozess zu Wettbewerbsklagen der US-Regierung und Dutzender Bundesstaaten weniger Vorwürfen stellen müssen. Der zuständige Richter Amit Mehta strich unter anderem die Anschuldigung, der Internet-Konzern habe durch sein Verhalten spezialisi…",
+    "url": "https://www.horizont.net/medien/nachrichten/us-wettbewerbsklage-richter-schraenkt-vorwuerfe-gegen-google-ein-213774",
+    "urlToImage": "https://www.horizont.net/news/media/42/Google-414961.jpeg",
+    "publishedAt": "2023-08-07T05:26:00Z",
+    "content": "Dagegen soll die Anschuldigung verhandelt werden, die Vereinbarungen von Google mit Browser-Entwicklern wie Apple (Safari) und Mozilla (Firefox) schadeten dem Wettbewerb. Das US-Justizministerium gre… [+447 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sun Sentinel"
+    },
+    "author": "South Florida Sun Sentinel",
+    "title": "Chris Perkins: Things we learned in Dolphins’ second week of training camp",
+    "description": "MIAMI GARDENS, Fla. — We’re two weeks into Dolphins training camp and it’s still tough to draw lasting conclusions. The picture becomes more clear after this week when the Miami has two days of joint practices with Atlanta (Tuesday and Wednesday) capped by Fr…",
+    "url": "https://www.sun-sentinel.com/2023/08/06/chris-perkins-things-we-learned-in-dolphins-second-week-of-training-camp/",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+    "publishedAt": "2023-08-07T00:35:00Z",
+    "content": "MIAMI GARDENS, Fla. Were two weeks into Dolphins training camp and its still tough to draw lasting conclusions. The picture becomes more clear after this week when the Miami has two days of joint pra… [+5395 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Cardinals Wire",
+    "title": "Cardinals training camp roster preview: LB Josh Woods",
+    "description": "We take a look at LB Josh Woods and his spot on the roster in 2023.",
+    "url": "https://cardswire.usatoday.com/lists/cardinals-training-camp-roster-preview-lb-josh-woods/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/p4Y8Xib_66AswMg2sTTYlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDE-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/3087feda31dcb37b5d622e829e98b3e2",
+    "publishedAt": "2023-08-07T00:14:34Z",
+    "content": "The Arizona Cardinals open training camp at the end of this month, so we will do a roster review, highlighting each player currently on the roster, going over last season, their salary and cap number… [+1263 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nbcsportsphiladelphia.com"
+    },
+    "author": "NBC Sports Philadelphia",
+    "title": "Eagles training camp observations: A.J. Brown wows crowd at Linc with TD catch",
+    "description": "The Eagles held their only public practice of the summer on Sunday night and A.J. Brown stole the show with one play.",
+    "url": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-training-camp-observations-a-j-brown-wows-crowd-at-linc-with-td-catch/531445/?partner=yahoo",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/e_KU1.9zp243nCpg5DVHKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/csnphilly.com/1d13d28efcee51a355b3bb5b796d2197",
+    "publishedAt": "2023-08-07T01:22:27Z",
+    "content": "Eagles training camp observations: A.J. Brown wows crowd at Linc with TD catch originally appeared on NBC Sports Philadelphia\r\nThe Eagles had a huge turnout for their one and only public practice of … [+6839 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Paul Tan's Automotive News"
+    },
+    "author": "Danny Tan",
+    "title": "2023 smart #1 EV’s interior revealed – Merc design, 13-speaker Beats audio, localised UI with charger location",
+    "description": "You’ve seen our media preview coverage of the smart #1, and those of you who came to EVx 2023 even got to see the new EV in the metal, so what’s this about then? The embargo lifts on the smart #1’s interior pics, and we can finally show you the […]\nThe post 2…",
+    "url": "https://paultan.org/2023/08/07/2023-smart-1-evs-interior-revealed-merc-design-13-speaker-beats-audio-localised-ui-with-charger-location/",
+    "urlToImage": "https://paultan.org/image/2023/08/2023_Smart_1_Premium_Preview_Malaysia_Int-35-1200x801.jpg",
+    "publishedAt": "2023-08-07T02:00:02Z",
+    "content": "You’ve seen our media preview coverage of the smart #1, and those of you who came to EVx 2023 even got to see the new EV in the metal, so what’s this about then? The embargo lifts on the smart #1’s i… [+8920 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Kevin Lynch",
+    "title": "Lionel Messi: How to Watch, Stream Inter Miami vs. FC Dallas on MLS Season Pass Today - CNET",
+    "description": "Messi leads Miami into the Round of 16 Leagues Cup match in Texas on Sunday.",
+    "url": "https://www.cnet.com/tech/services-and-software/lionel-messi-how-to-watch-stream-inter-miami-vs-fc-dallas-on-mls-season-pass-today/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/0df24ae21cd4b44c317fc3ea6f731307bc55b4c2/hub/2023/07/25/f12705ed-06c9-43a7-a88c-adecb884be26/gettyimages-1565639837.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2023-08-07T00:00:04Z",
+    "content": "Lionel Messi arrived on these shores amid huge expectations. And the soccer icon has somehow exceeded them, leading his new team, Inter Miami, to three straight wins and netting five goals in the pro… [+7541 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "MoneyDJ",
+    "title": "蘋果傳正招聘 AI 人才，瞄準 iPhone 版 LLM 運行商機",
+    "description": "英國金融時報 8 月 5 日報導，蘋果（Apple Inc.）於今年 4-7 月期間開始在加州、西雅圖、巴黎和北京招聘數十名大型語言模型（LLM）相關研究人員，聚焦將影響蘋果產品未來的長期研究計畫。 報導指出，包括機器智慧、神經設計（MIND）集團在內的數支蘋果團隊正招募研究人員和工程師，工作項目涵...",
+    "url": "https://technews.tw/2023/08/07/apple-seeks-to-bolster-expertise-in-generative-ai-on-mobile-devices/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2021/11/02135540/bangyu-wang-BkMN3W0IBbQ-unsplash-e1635832562719.jpg",
+    "publishedAt": "2023-08-07T02:30:28Z",
+    "content": "8 5 Apple Inc. 4-7 LLM\r\nMIND LLM \r\nAIAIFacebookMeta20202AIXnor\r\nMetaAIYann LeCun6BBC NewsAI\r\nCNBCEmmanuel Macron6AI\r\n32023719.5%74.4220231-316%226.08\r\nThomson ReutersTim Cookgenerative AI\r\n719AI\r\n84i… [+72 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "MoneyDJ",
+    "title": "蘋果摔、薪資引通膨擔憂，那指跌、VIX 飆",
+    "description": "蘋果（Apple Inc.）財報令人失望、股價慘淡，再加上數據顯示薪資增幅高於預期引發獲利了結賣壓，衝擊標準普爾 500 指數、那斯達克指數連續 4 個交易日收低，單週跌幅也創 3 月以來新高。 道瓊工業平均指數8月4日終場下跌0.43%（150.27點）、收35,065.62點，創7月19日以來收...",
+    "url": "https://finance.technews.tw/2023/08/07/us-stock-0804/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2020/12/28170100/stock-exchange-2816898_1920-e1609146078428.jpg",
+    "publishedAt": "2023-08-07T00:28:53Z",
+    "content": "Apple Inc. 500 4 3 \r\n840.43%150.2735,065.62719K1.11%0.36%50.4813,909.24711K2.85%5000.53%23.864,478.03712K2.27%0.24%8.873,699.20724K3.96%\r\nCNBCInteractive BrokersSteve Sosnick\r\nCBOEVIX47.41%17.153128.… [+305 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Technews.tw"
+    },
+    "author": "MoneyDJ",
+    "title": "看好 AI 帶動雲端事業成長，分析師按讚亞馬遜",
+    "description": "美國電商巨頭亞馬遜（Amazon）近日發布最新財報，旗下電子商務和雲端事業雙雙繳出亮眼成績，分析師也調升亞馬遜股票的投資評等，認為亞馬遜現階段是更勝於蘋果（Apple）的投資標的。 MarketWatch、Barron's等外媒報導，財報發布後，Rosenblatt證券分析師Barton Crock...",
+    "url": "https://finance.technews.tw/2023/08/07/amazons-stock-is-now-a-better-play-than-apples/",
+    "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/01/29143819/shutterstock_681649144.jpg",
+    "publishedAt": "2023-08-07T02:45:56Z",
+    "content": "AmazonApple\r\nMarketWatchBarron’sRosenblattBarton Crockettneutralbuy111184\r\nCrockettAIAmazon Web ServicesAWSAI\r\nCrockettGoogleAIAI\r\nCrockett\r\nPrime182019\r\niPhoneMaciPad2%7%20%CrockettiPhone\r\n848.27%13… [+36 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Moneycontrol"
+    },
+    "author": "Bloomberg",
+    "title": "SoftBank may turn profit after $48 billion in Vision Fund losses",
+    "description": "The Japanese conglomerate is fighting to regain its footing after losing Â¥6.9 trillion ($48 billion) at the Vision Fund investment unit in the last two fiscal years.",
+    "url": "https://www.moneycontrol.com/news/world/softbank-may-turn-profit-after-48-billion-in-vision-fund-losses-11110661.html",
+    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/03/396253286-770x433.jpg",
+    "publishedAt": "2023-08-07T05:01:21Z",
+    "content": "SoftBank Group Corp.s Vision Fund is likely to return to profitability after five quarters of losses, thanks to an artificial-intelligence-fueled rebound thats lifting startup valuations.\r\nThe Japane… [+2673 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "iPhone 15 поступит в продажу 22 сентября — это данные Bloomberg",
+    "description": "Редактор агентства Bloomberg и авторитетный инсайдер Марк Гурман получил инсайдерскую информацию о дате выхода смартфонов линейки iPhone 15. iPhone 15, как мне сказали, поступит в продажу 22 сентября — после мероприятия, запланированного на 12 или 13 сентября…",
+    "url": "https://www.ixbt.com/news/2023/08/07/iphone-15-22-bloomberg.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/7/1/-1x-1_large.png",
+    "publishedAt": "2023-08-07T01:22:00Z",
+    "content": "Bloomberg iPhone 15.\r\niPhone 15, , 22 — , 12 13 . , Apple iPhone 15 . Apple . .\r\n, . iPhone 14 Pro Pro Max - Foxconn Technology Group . iPhone .\r\n 9to5Mac, 13 - . Apple iPhone."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "«Я готов драться хоть сегодня», — Марк Цукерберг предложил Илону Маску подраться уже 28 августа и транслировать бой «на более надежной платформе»",
+    "description": "Марк Цукерберг говорит, что он готов сразиться с Илоном Маском хоть сегодня и добавил, что предложил Маску провести схватку в клетке 26 августа, но тот не ответил. Цукерберг прокомментировал пост Илона Маска, в котором последний рассказывал, как поднимает ган…",
+    "url": "https://www.ixbt.com/news/2023/08/07/ja-gotov-dratsja-hot-segodnja--mark-cukerberg-predlozhil-ilonu-masku-podratsja-uzhe-28-avgusta-i-translirovat-boj-na.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/7/1/ixbtmedia_Mark_Zuckerberg_in_MMA_gloves_in_the_ring_3de6d155-0e5f-4d54-95f8-660849d13fa9_large.png",
+    "publishedAt": "2023-08-07T02:36:00Z",
+    "content": ", , 26 , .\r\n , , , . , .\r\n , X, , , « , ».\r\n Meta* , « , , ».\r\n , , , .\r\n , .\r\n*  Meta .\r\n<ul><li> 05:46 300 2024-2026 . </li><li>« », 28 « »: </li><li> 05:14«   20 » «.» , . </li><li> 05:00 X, . </l… [+293 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "iPhone 15 Pro Max сравнили с iPhone 14 Pro: разница очевидна и она не только в размере",
+    "description": "Известный сетевой информатор Ice Universe опубликовал сравнительное изображение, на котором показаны iPhone 15 Pro Max и iPhone 14 Pro. В течение нескольких месяцев ходят слухи о том, что Apple заметно уменьшит ширину рамки экрана в iPhone 15 Pro и iPhone 15 …",
+    "url": "https://www.ixbt.com/news/2023/08/07/iphone-15-pro-max-iphone-14-pro.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/7/1/006bWoNYly1hglv0o6pkej32ks1y2qv8_large.jpg",
+    "publishedAt": "2023-08-07T03:55:00Z",
+    "content": "Ice Universe , iPhone 15 Pro Max iPhone 14 Pro.\r\n , Apple iPhone 15 Pro iPhone 15 Pro Max. .\r\n iPhone 15 Pro, CAD-. , Apple .\r\nIce Universe -, iPhone X, iPhone 14 Dynamic Island 200- ."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "В России предлагают клеймить компании, допустившие утечку персональных данных. Для этого предложен специальный знак «ненадежного оператора»",
+    "description": "В России предложили разработать и внедрить специальный знак «ненадежного оператора» для компаний, допустивших утечку персональных данных клиентов. Соответствующее предложение направил в письме министру цифрового развития, связи и массовых коммуникаций РФ Макс…",
+    "url": "https://www.ixbt.com/news/2023/08/07/v-rossii-predlagajut-klejmit-kompanii-dopustivshie-utechku-personalnyh-dannyh-dlja-jetogo-predlozhen-specialnyj-znak.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/7/1/sy7amdx7Y8vzmj4g3qHCz7VfDLH99jn-_large.png",
+    "publishedAt": "2023-08-07T05:27:00Z",
+    "content": "« » , .\r\n , ( ).\r\n \" \", , , .\r\n, , . , , , , .\r\n , , , , , -, , - .\r\n, «» \r\n<ul><li> , . « »: </li><li> 08:22, «» . </li><li> 08:132 «-2.1» - . 11 </li><li> 08:07 Lada. Lada X-Cross 5</li><li> 07:591… [+1065 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "Россия планирует наращивать количество беспилотных грузовиков на трассах",
+    "description": "Первый вице-премьер РФ Андрей Белоусов заявил, что в России планируют запустить беспилотники на новых направлениях. Сейчас там идет масштабирование, КамАЗ собирается 12 беспилотников сделать. Мы хотим на самом деле выйти на другие трассы, но это требует допол…",
+    "url": "https://www.ixbt.com/news/2023/08/07/rossija-planiruet-narashivat-kolichestvo-bespilotnyh-gruzovikov-na-trassah.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/7/1/Capture435_large_large.png",
+    "publishedAt": "2023-08-07T02:52:00Z",
+    "content": "- , .\r\n , 12 . , .\r\n«» -11 - -. , 2024 12 .\r\n «» -11 - - \"\". «-54901».\r\n , , , . .\r\n7 2023 06:00\r\n: Jin\r\n| : , \r\n| : , \r\n« , , , » , \r\n<ul><li>: </li><li> 05:53« , , , » , . </li><li> 05:46 300 2024-… [+384 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "«Пятидверная Нива – штука странная», – названы 5 причин покупать и не покупать Lada 4x4 5D",
+    "description": "Автомобильное издание Колеса.Ру составило список преимуществ и недостатков 5-дверной Нивы (ВАЗ 2131), ознакомившись с отзывами реальных пользователей автомобиля. Пятидверная Нива – штука странная. Вроде бы и спрос на неё какой-никакой был, и даже фанаты у это…",
+    "url": "https://www.ixbt.com/news/2023/08/07/5-lada-4x4-5d.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2023/7/1/miro7719.jpg_large.png",
+    "publishedAt": "2023-08-07T06:49:00Z",
+    "content": ". 5- ( 2131), .\r\n – . - , , .\r\n.\r\n, , . .\r\n .\r\n . .\r\n , . , . 10 /100, .\r\n- . .\r\n , , .\r\nWhatsApp Viber, \r\n<ul><li>« », 5 Lada 4x4 5D: </li><li> 09:41 WhatsApp Viber, . </li><li> 09:31 . . 9 </li><li… [+1390 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nextpit.com"
+    },
+    "author": "Jade Bryan",
+    "title": "Google Pixel Watch 2 Could Gain Real-Time Tracking with UWB",
+    "description": "Google's Pixel Watch 2 is tipped to feature ultra-wideband or UWB connectivity. This could add precise and real-time location tracking on the smartwatch.",
+    "url": "https://www.nextpit.com/google-pixel-watch-2-uwb-connectivity-real-time-tracking-location",
+    "urlToImage": "https://fscl01.fonpit.de/userfiles/7446224/image/google-pixel-watch/nextpit_google-pixel-watch-front.jpg",
+    "publishedAt": "2023-08-07T02:46:19Z",
+    "content": "© nextpit\r\nGoogle's upcoming Pixel Watch 2 is turning out to be a significant upgrade from the original Pixel Watch (review). It is now reported that the smartwatch will feature an ultra-wideband con… [+2389 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 20W PD充电器 Type-C 87.5元",
+    "description": "Apple 苹果 20W PD充电器 Type-C 87.5元,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/87228112/",
+    "urlToImage": "https://qny.smzdm.com/202308/04/64cc7b5589114235.jpg_d250.jpg",
+    "publishedAt": "2023-08-07T04:56:46Z",
+    "content": ", Apple 20W USB-CUSB-C,, Apple11 ipad Pro12.9 ipad Pro()iphone8,"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "百亿补贴：Apple 苹果 Watch Series 8 智能手表 45mm GPS款 2448元包邮",
+    "description": "拼多多此款目前活动售价2448元，近期好价。",
+    "url": "https://www.smzdm.com/p/87236307/",
+    "urlToImage": "https://qny.smzdm.com/202308/07/64d08a65031077458.jpg_d250.jpg",
+    "publishedAt": "2023-08-07T06:20:05Z",
+    "content": "Apple Watch Series 8 Apple S8 iOS 16 watch OS 9 \r\nApple Watch Series 83256G\r\nApple Watch Series 8 3618"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 iPad Pro 2022款 11英寸平板电脑 256GB WLAN版 教育优惠专享 6799元（需用券）",
+    "description": "Apple 苹果 iPad Pro 2022款 11英寸平板电脑 256GB WLAN版 教育优惠专享 6799元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/87204132/",
+    "urlToImage": "https://qny.smzdm.com/202210/19/634f6265145fe741.jpg_d250.jpg",
+    "publishedAt": "2023-08-07T00:38:24Z",
+    "content": "2021iPad Pro2022Apple M2 8 10M115% 40%50%iPad Pro  3  ProRes 128GB256GB512GB8GB1TB16GB\r\n11 iPad Pro Liquid 600nit120Hz P3 1200ID\r\niPad Pro 202212001000ProRes HDR4\r\niPadOS 16APP\r\n2022 iPad Pro USB 4 4… [+69 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "Apple 苹果 Mac mini 2023款 迷你台式机 （M2、8GB、256GB SSD）一天一个价 2989元",
+    "description": "Apple 苹果 Mac mini 2023款 迷你台式机 （M2、8GB、256GB SSD）一天一个价 2989元,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+    "url": "https://www.smzdm.com/p/87208492/",
+    "urlToImage": "https://qny.smzdm.com/202308/07/64d044bf8be845318.jpg_d250.jpg",
+    "publishedAt": "2023-08-07T01:36:16Z",
+    "content": "·\r\n Mac mini M2 M2 Pro M2 M2 4 4 10 16 100GB/s H.264HEVCProRes ProRes RAW ProRes M2 Mac mini ProRes Final Cut ProM2 30 fps 2 8K ProRes 422 30 fps 12 4K ProRes 422 \r\n M2 Pro M2 Pro 10 6 4 19 M2 200GB … [+230 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smzdm.com"
+    },
+    "author": null,
+    "title": "限地区：Apple 苹果 MacBook Air 15.3英寸笔记本电脑（M2 、16GB、256GB） 9099元包邮（需用北京消费券）",
+    "description": "kevinlee_9国内促进消费新动力！北京“京彩·绿色”消费券发放每日10点领取！至高可领取1600元目前北京市商务局，面向定位于北京市的消费者发放“京彩·绿色”消费券，聚焦手机、平板电脑、笔电、台式电脑、显示器、冰箱、空调品等55个商品品类，每人总计可领取五张共1600元消费券，每日10点可领，...",
+    "url": "https://www.smzdm.com/p/87215605/",
+    "urlToImage": "https://y.zdmimg.com/202306/06/647e93d18a2e59127.jpg_d250.jpg",
+    "publishedAt": "2023-08-07T02:56:23Z",
+    "content": "MacBook Air11.5mmPC40%1.49kg15.3 Liquid 500 1\r\nMacBook Air 8 CPU 10 GPU 16 M2 100GB/s 24GB ProRes M2 4K8K\r\nMacBook Air MagSafe 6K 3.5 18MacBook Air 1080p FaceTime M215MacBook AirmacOS VenturaMac"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "Briefcase Mong",
+    "title": "Apple iPhone 14 Pro 128GB Gold $1522 Delivered @ Amazon AU",
+    "description": "Currently $1597 at Officeworks could price beat for a further discount",
+    "url": "https://www.ozbargain.com.au/node/792400",
+    "urlToImage": "https://files.ozbargain.com.au/n/00/792400x.jpg?h=7ca845a6",
+    "publishedAt": "2023-08-07T02:17:46Z",
+    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "tyc719",
+    "title": "[One Pass] Apple USB-C to Magsafe 3 Cable (2m) - $26 Delivered (RRP $69) @ Catch",
+    "description": "Silver colour only.\n\n50% off with OnePass off $52.\nSold and shipped by Catch, unsure if Australian stock or not.",
+    "url": "https://www.ozbargain.com.au/node/792395",
+    "urlToImage": "https://files.ozbargain.com.au/n/95/792395x.jpg?h=5546db7c",
+    "publishedAt": "2023-08-07T02:06:45Z",
+    "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "ke",
+    "title": "[OnePass] Apple MacBook Pro 16\" 2023: M2 Pro 12C CPU, 16GB RAM, 19C GPU, 1TB SSD $3781.36 / 512GB SSD $3517 Delivered @ Catch",
+    "description": "for those looking for an M2 pro, still kicking myself for missing the mwave deal a couple weeks ago\n\nnot a bad price for those who need one now",
+    "url": "https://www.ozbargain.com.au/node/792439",
+    "urlToImage": "https://files.ozbargain.com.au/n/39/792439x.jpg?h=982f5353",
+    "publishedAt": "2023-08-07T06:01:41Z",
+    "content": "for those looking for an M2 pro, still kicking myself for missing the mwave deal a couple weeks ago\r\nnot a bad price for those who need one now"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "mobiFlip.de"
+    },
+    "author": "Oliver Schwuchow",
+    "title": "Apple hat wohl ein Datum für das neue iPhone",
+    "description": "Wir haben letzte Woche erfahren, dass Apple ein Apple Event am 13. September plant und somit eine Woche später als letztes Jahr mit der Keynote ist. Das hat auch Mark Gurman von Bloomberg gehört, es wird der 12. oder 13.",
+    "url": "https://www.mobiflip.de/shortnews/apple-hat-wohl-ein-datum-fuer-das-neue-iphone/",
+    "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2023/05/apple-iphone-15-pro-titan-konzept.jpg",
+    "publishedAt": "2023-08-07T04:00:18Z",
+    "content": "Wir haben letzte Woche erfahren, dass Apple ein Apple Event am 13. September plant und somit eine Woche später als letztes Jahr mit der Keynote ist. Das hat auch Mark Gurman von Bloomberg gehört, es … [+825 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "mobiFlip.de"
+    },
+    "author": "Oliver Schwuchow",
+    "title": "Apple plant wohl neuen Mac mini mit M3-Chip",
+    "description": "Apple soll im Oktober die ersten Macs mit einem M3-Chip planen, aber einige sind auch erst für 2024 geplant. Dazu könnte ein neuer Mac mini gehören, der laut Mark Gurman ein Upgrade bekommt.",
+    "url": "https://www.mobiflip.de/shortnews/apple-plant-wohl-neuen-mac-mini-mit-m3-chip/",
+    "urlToImage": "https://www.mobiflip.de/wp-content/uploads/2021/08/apple-mac-mini-m1-hand-header.jpg",
+    "publishedAt": "2023-08-07T05:44:50Z",
+    "content": "Apple soll im Oktober die ersten Macs mit einem M3-Chip planen, aber einige sind auch erst für 2024 geplant. Dazu könnte ein neuer Mac mini gehören, der laut Mark Gurman ein Upgrade bekommt. Die inte… [+796 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Maclife.de"
+    },
+    "author": "Ben Otterstein",
+    "title": "Wann erscheint das iPhone 15 Pro? Alles, was wir bisher wissen",
+    "description": "Die Gerüchteküche brodelt wieder, und das iPhone 15 Pro ist das Thema der Stunde. Was können wir also von Apples nächstem Flaggschiff-Smartphone erwarten, und wann wird es auf den Markt kommen? (Weiterlesen)",
+    "url": "https://www.maclife.de/news/wann-erscheint-iphone-15-pro-alles-was-bisher-wissen-mac-life-100122652.html",
+    "urlToImage": "https://www.maclife.de/media/maclife/styles/tec_frontend_opengraph/public/images/editors/2023_32/image-122652--4600057.png?itok=mK3LkbCi",
+    "publishedAt": "2023-08-07T06:38:24Z",
+    "content": "Basierend auf den Informationen von 9to5Mac wird erwartet, dass Apple das iPhone 15 Pro im September 2023 vorstellen wird genauer am 13. September. Damit liegt das Datum in Einklang mit Apples üblich… [+2139 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Onevcat.com"
+    },
+    "author": "王巍 (onevcat)",
+    "title": "深入理解 Observation - 原理，back porting 和性能",
+    "description": "SwiftUI 遵循 Single Source of Truth 的原则，只有修改 View 所订阅的状态，才能改变 view tree 并触发对 body 的重新求值，进而刷新 UI。最初发布时，SwiftUI 提供了 @State、@ObservedObject 和 @EnvironmentObject 等属性包装器进行状态管理。在 iOS 14 中，Apple 添加了 @StateObject，它补全了 View 中持有引用类型实例的情况，使得 SwiftUI 的状态管理更加完善。 在订阅引用类型时，Ob…",
+    "url": "https://onevcat.com/2023/08/observation-framework/",
+    "urlToImage": null,
+    "publishedAt": "2023-08-07T00:15:00Z",
+    "content": "SwiftUI Single Source of Truth View view tree body UISwiftUI @State@ObservedObject@EnvironmentObject iOS 14 Apple @StateObjectView SwiftUI \r\nObservableObject Model SwiftUI View ObservableObjectObserv… [+8941 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ferra.ru"
+    },
+    "author": "Булат Кармак",
+    "title": "Авторитетный инсайдер подтвердил сроки выхода iPhone 15",
+    "description": "Не так давно наши коллеги из 9to5Mac написали, Apple планирует анонсировать линейку iPhone 15 примерно 13 сентября.",
+    "url": "https://www.ferra.ru/news/mobile/avtoritetnyi-insaider-podtverdil-sroki-vykhoda-iphone-15-06-08-2023.htm",
+    "urlToImage": "https://www.ferra.ru/imgs/2023/08/06/16/6093861/31ef1cd1e96bdfbdff0f6bd0a3c5be0f9447c323.jpeg",
+    "publishedAt": "2023-08-07T04:32:51Z",
+    "content": "Bloomberg . , .\r\n 9to5Mac Apple, , 13 , - « ».\r\n Bloomberg , iPhone 15 22 , , 12 13 . , iPhone 15 15 , 22 .\r\n, iPhone 15 iPhone 15 Plus Dynamic Island. iPhone 15 Pro iPhone 15 Pro Max A17 Bionic, .\r\n… [+28 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ferra.ru"
+    },
+    "author": "Булат Кармак",
+    "title": "USB-C в iPhone 15 Pro быть: в Сеть утекли живые фото смартфона",
+    "description": "Apple готовится к запуску новых моделей iPhone 15 уже в следующем месяце. Накануне же в Интернете появились предполагаемые фотографии Pro-версии устройства, которые раскрывают некоторые ключевые особенности дизайна новинки.",
+    "url": "https://www.ferra.ru/news/mobile/usb-c-v-iphone-15-pro-byt-v-set-utekli-zhivye-foto-smartfona-07-08-2023.htm",
+    "urlToImage": "https://www.ferra.ru/imgs/2023/08/07/03/6093993/0139562dae7362d22c1f17b0241cfc20d206a6d8.png",
+    "publishedAt": "2023-08-07T05:34:47Z",
+    "content": ", iPhone 15 Pro 5 , , , iPhone 14 Pro. - , $200 .\r\n , Ice Universe, , iPhone 15 Pro .\r\n USB-C Lightning. iPhone 15 .\r\n , Action Button . , , ."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "International Business Times"
+    },
+    "author": "Peter HUTCHISON",
+    "title": "New York Drives Towards First US Congestion Charge",
+    "description": "New York wants to introduce car-loving America's first congestion charge, but the move faces fierce opposition -- including from the city's famous yellow taxis.",
+    "url": "https://www.ibtimes.com/new-york-drives-towards-first-us-congestion-charge-3707722",
+    "urlToImage": "https://d.ibtimes.com/en/full/4478101/new-yorks-famous-yellow-taxis-want-exemption-toll.jpg",
+    "publishedAt": "2023-08-07T01:21:33Z",
+    "content": "New York's famous yellow taxis want an exemption from the tollAFP\r\nNew York wants to introduce car-loving America's first congestion charge, but the move faces fierce opposition -- including from the… [+3859 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo.co.jp"
+    },
+    "author": null,
+    "title": "FIDO認証＆パスキー総復習（認証の仕組みやパスキー登場までの経緯）",
+    "description": "ヤフーで対応しているFIDO認証の仕組みやパスキーについて現行の仕様やFIDOアライアンスからの定義を用いて解説をします。",
+    "url": "https://techblog.yahoo.co.jp/entry/2023080730431354/",
+    "urlToImage": "https://s.yimg.jp/images/tecblog/2023-H1/293/ogp.png",
+    "publishedAt": "2023-08-07T01:45:00Z",
+    "content": "ID\r\nFast IDentity OnlineFIDOFIDO2018FIDO2023\r\nFIDO\r\nFIDO\r\nFIDOFIDO\r\nFIDO\r\nFIDOWebSMS\r\nFIDO\r\nFIDO\r\n1.\r\nFIDO\r\nhttps://www.w3.org/TR/webauthn-3/#sctn-defined-attestation-formats\r\n2.originFIDO\r\nFIDOAuthe… [+1416 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digitimes"
+    },
+    "author": "DIGITIMES",
+    "title": "India roundup: India's import restrictions of notebooks and tablets to hit Apple",
+    "description": "Amid Apple's rapid growth in India, India's surprising measure to restrict imports of PCs will hit Apple the most. After Micron's ATMP plan in India, more companies have shown interest in investing in India.",
+    "url": "https://www.digitimes.com/news/a20230807VL200/apple-battery+green-energy-battery-chips+components-hit-ic-manufacturing-ict-manufacturing-india-roundup-india-it+ce-south-asia.html",
+    "urlToImage": "https://img.digitimes.com/newsshow/20230807vl200_files/1_2b.jpg",
+    "publishedAt": "2023-08-07T01:41:53Z",
+    "content": "Save my User ID and Password\r\nSome subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function… [+307 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Soydemac.com"
+    },
+    "author": "Rodrigo Cortina",
+    "title": "AirPort Express: todo sobre el router de Apple",
+    "description": "¿Sabías que Apple había diseñado su propio router Wifi, el AirPort Express? Y aunque para muchos este cacharrito puede sonar...",
+    "url": "https://www.soydemac.com/airport-express-todo-sobre-el-router-de-apple/",
+    "urlToImage": "https://www.soydemac.com/wp-content/uploads/2023/08/airport_principal.jpg",
+    "publishedAt": "2023-08-07T03:47:57Z",
+    "content": "¿Sabías que Apple había diseñado su propio router Wifi, el AirPort Express? Y aunque para muchos este cacharrito puede sonar a marciano, significó una revolución tecnológica en un momento donde el Wi… [+5888 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Apple iPhone 15 Series Launch Event Likely On September 13, Sale From September 22 - News18",
+    "description": "<ol><li>Apple iPhone 15 Series Launch Event Likely On September 13, Sale From September 22  News18\r\n</li><li>Apple iPhone 15 series may debut on September 13  The Indian Express\r\n</li><li>iPhone 15 launch date leaked  India Today\r\n</li><li>New leak suggests i…",
+    "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5ld3MxOC5jb20vdGVjaC9hcHBsZS1pcGhvbmUtMTUtc2VyaWVzLWxhdW5jaC1ldmVudC1saWtlbHktb24tc2VwdGVtYmVyLTEzLXNhbGUtZnJvbS1zZXB0ZW1iZXItMjItODUyMDA0My5odG1s0gF-aHR0cHM6Ly93d3cubmV3czE4LmNvbS9hbXAvdGVjaC9hcHBsZS1pcGhvbmUtMTUtc2VyaWVzLWxhdW5jaC1ldmVudC1saWtlbHktb24tc2VwdGVtYmVyLTEzLXNhbGUtZnJvbS1zZXB0ZW1iZXItMjItODUyMDA0My5odG1s?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+    "urlToImage": null,
+    "publishedAt": "2023-08-07T03:21:00Z",
+    "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Computerwoche.de Live"
+    },
+    "author": "Jonny Evans",
+    "title": "Alliance for OpenUSD: Mission \"Meta untergraben\"",
+    "description": "Apple, Nvidia und andere große Tech-Player haben sich zur Alliance for OpenUSD zusammengeschlossen. Ein Move, der Meta-CEO Zuckerberg nicht gefallen dürfte.",
+    "url": "https://www.computerwoche.de/a/mission-meta-untergraben,3615018?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+    "urlToImage": "https://images.computerwoche.de/bdb/3385312/640x360.jpg",
+    "publishedAt": "2023-08-07T05:13:00Z",
+    "content": "Apple und andere große Tech-Player wollen einen offenen Standard für künftige virtuelle Welten schaffen und damit auch Metas AR-Pläne untergraben.Foto: Apple\r\nErklärtes Ziel der Non-Profit-Organisati… [+4219 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Computerwoche.de Live"
+    },
+    "author": "Stephan Wiesend",
+    "title": "Ratgeber: So reduzieren Sie den Datenverbrauch Ihres iPhones",
+    "description": "Wir zeigen, wie Sie den mobilen Datenverbrauch Ihres iPhone senken und Drosselung oder Nachkaufen von Volumen vermeiden.",
+    "url": "https://www.computerwoche.de/a/so-reduzieren-sie-den-datenverbrauch-ihres-iphones,3615016?utm_source=Nach-Artikeltyp_1,30,119,124,125&utm_medium=RSS&utm_campaign=RSS-Feeds",
+    "urlToImage": "https://images.computerwoche.de/bdb/3385350/640x360.jpg",
+    "publishedAt": "2023-08-07T04:47:00Z",
+    "content": "Datenvolumen verbraucht? Diese Tipps helfen für die Zukunft.Foto: Faces Portrait - shutterstock.com\r\nImmer mehr iPhone-Besitzer nutzen beim mobilen Surfen eine Datenflatrate - aber längst nicht alle.… [+7075 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "COMPUTER BILD"
+    },
+    "author": "Henning Evers",
+    "title": "Apple MacBook Pro (2022) für 1.795 Euro zum Top-Preis!",
+    "description": "Flach, schnell, leise – das Apple MacBook Pro (2022) mit 13,3-Zoll-Retina-Display sichern Sie derzeit bei Notebooksbilliger zu einem Top-Preis – nur 1.795 Euro!",
+    "url": "https://www.computerbild.de/artikel/cb-News-Notebooks-Netbooks-NBB-Sparangebot-Apple-MacBook-Pro-2022-Aktionspreis-36255191.html",
+    "urlToImage": "https://i.computer-bild.de/imgs/1/4/9/5/6/3/9/5/large-angebots-teaser-nbb-macbookpro-45b91cc1a8017dbd.jpg",
+    "publishedAt": "2023-08-07T05:18:00Z",
+    "content": "Hohes Arbeitstempo, lange Akkulaufzeit und ein brillantes Display das Apple MacBook Pro M2 (2022) hinterließ im Test der COMPUTER BILD einen guten Eindruck und erhielt die Endnote 1,7 (gut). Derzeit … [+1549 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Skift"
+    },
+    "author": "Andrea Doyle",
+    "title": "The Growing Importance of Events for Marketing",
+    "description": "A reported 80.4% of meeting professionals say in-person events are their organization's most impactful marketing channel, according to the report, \"The Despite a year of headlines about economic uncertainty and layoffs, events have continued to be business-cr…",
+    "url": "https://meetings.skift.com/the-growing-importance-of-events-for-marketing/",
+    "urlToImage": "https://meetings.skift.com/wp-content/uploads/2023/08/adults-g79faa13a2_1280.jpg",
+    "publishedAt": "2023-08-07T01:42:49Z",
+    "content": "Events have increased in popularity as a marketing channel to help businesses engage with their target audiences, create brand awareness, build customer loyalty, and generate leads, according to a re… [+2583 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PhoneArena"
+    },
+    "author": "Alan Friedman",
+    "title": "Once again, a customer with a lost bag with an embedded AirTag makes United Airlines look foolish",
+    "description": "Once again United Airlines takes on the Apple AirTag over a lost bag and takes a big, embarrassing loss.",
+    "url": "https://www.phonearena.com/news/united-airlines-ignores-airtag-looks-foolish_id149516",
+    "urlToImage": "https://m-cdn.phonearena.com/images/article/149516-wide-two_1200/Once-again-a-customer-with-a-lost-bag-and-an-embedded-AirTag-makes-United-Airlines-look-foolish.jpg",
+    "publishedAt": "2023-08-07T05:05:45Z",
+    "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "YURI KAGEYAMA",
+    "title": "Stock market today: Asian benchmarks mostly slip after Wall Street's losing week",
+    "description": "Asian shares were trading mostly lower on Monday after U.S. employment data had Wall Street close out a losing week.  Investors are also closely watching...",
+    "url": "https://finance.yahoo.com/news/stock-market-today-asian-benchmarks-035712730.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mT1M8tjR5E4LQhoLMFYlig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap_finance_articles_694/1f2e2894878d321109d2f9e3d2402a63",
+    "publishedAt": "2023-08-07T03:57:12Z",
+    "content": "TOKYO (AP) Asian shares were trading mostly lower on Monday after U.S. employment data had Wall Street close out a losing week.\r\nInvestors are also closely watching earnings reports due later this we… [+2359 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "СтарыйДед",
+    "title": "Apple тестирует новый Mac mini с чипом M3",
+    "description": "Несмотря на то, что в обновлённом Mac mini будет установлен чип М3, он будет с тем же количеством ядер, что и чип M2",
+    "url": "https://overclockers.ru/blog/S_Miru_Po_Provodku/show/102257/apple-testiruet-novyj-mac-mini-s-chipom-m3",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/427458/404107_O.jpg",
+    "publishedAt": "2023-08-07T03:36:22Z",
+    "content": "Apple iPhone 15 Apple Watch Series 9. , , M3. , Apple Mac M3. Mac, . , Apple, , Mac mini M3.\r\n Mac, M3 . Mac mini . \r\nApple MacBook Air M3, 13- MacBook Pro iMac . MacBook Pro Mac mini . , Mac mini , … [+211 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": null,
+    "title": "7+7 причин, почему надо включать прежде всего голову при покупке видеокарт NVIDIA",
+    "description": "Для любого выбора или написания статей по выбору любых комплектующих необходимо глубже подходить в вопросу",
+    "url": "https://overclockers.ru/blog/fynjyOVER/show/102191/7-7-prichin-pochemu-nado-vkljuchat-prezhde-vsego-golovu-pri-pokupke-videokart-nvidia",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/43820/403949_O.png",
+    "publishedAt": "2023-08-07T03:39:12Z",
+    "content": "7 , Nvidia\r\n .\r\n 2 , / .\r\n   , , .\r\n 2 Nvidia/\r\n7 Nvidia\r\n-7 NVIDIA 2023 \r\n<table><tr><td></td><td> Zero\r\n</td></tr><tr><td>1. \r\n 4090 7900\r\n</td><td>7900XTX   RT . DLSS 3/FG NVIDIA FSR AMD, FPS, .\r\n… [+2573 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "FT729",
+    "title": "iPhone15シリーズが日本時間9月14日に発表！？携帯キャリアが従業員に出勤要請",
+    "description": "日本時間では2023年9月14日（米国現地時間では9月13日）に重要なスマートフォンが発表されるため、従業員は同日に出勤するよう米国の携帯キャリアが要請したと経済日報が報じました。\n \n重要なスマートフォンとは、iPhone15シリーズを示していると経済日報は伝えています。\n\n■3行で分かる、この記事のポイント\n1. 米国の携帯キャリアが従業員に対し、2023年9月14日（現地時間では9月13日）に出勤するよう従業員に要請した。\n2. iPhone15シリーズ発表に伴う業務量増加のためと予想されている。\n3. 同…",
+    "url": "https://iphone-mania.jp/news-547959/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/08/07/iPhone15-event-AH-0807_1200.jpg",
+    "publishedAt": "2023-08-07T00:12:44Z",
+    "content": "2023914913iPhone1531. 20239149132. iPhone153. Apple WatchiPad mini 7\r\n914\r\n9to5MaciPhone152023914913\r\n BloombergiPhone1520239131491213914914\r\nApple WatchiPad mini 7\r\niPhone15Apple Watch Series 9Apple… [+85 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "lunatic",
+    "title": "iPhone15シリーズ発表前のAppleによるiPhone下取り額まとめ",
+    "description": "Appleは、2023年9月14日（現地時間では9月13日）にiPhone15シリーズを発表する可能性が高いといわれています。\n \n通常、新しい機種が発売されるタイミングで、iPhoneの下取り額が大きく下げられます。つまりiPhone15シリーズの発売と同時に、iPhoneの下取り額が減額されることになります。\n \n今回はiPhone15シリーズ発表前の、Appleにおける現在の最大下取り額をまとめてみました。\n\n■3行で分かる、この記事のポイント\n1. Appleは通常、新iPhoneを発売するタイミングで下…",
+    "url": "https://iphone-mania.jp/news-547965/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2023/05/24/7f8f9600fe7a0746f70244a4f3ad8ad1.png",
+    "publishedAt": "2023-08-07T04:30:06Z",
+    "content": "Apple2023914913iPhone15iPhoneiPhone15iPhoneiPhone15Apple31. AppleiPhone2. Apple6iPhone3. \r\nApple20235256291iPhone1,00015,000iPhone13 Pro\r\nAppleiPhone\r\n<table><tr><th></th><th></th><th></th><th></th><… [+1583 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Japan Today"
+    },
+    "author": null,
+    "title": "New York drives towards first US congestion charge",
+    "description": "New York wants to introduce car-loving America's first congestion charge, but the move faces fierce opposition -- including from the city's famous yellow taxis. The plan, similar to pricing long in place in London and Singapore, aims to improve air quality in…",
+    "url": "https://japantoday.com/category/world/new-york-drives-towards-first-us-congestion-charge1",
+    "urlToImage": null,
+    "publishedAt": "2023-08-07T02:28:25Z",
+    "content": "New York wants to introduce car-loving America's first congestion charge, but the move faces fierce opposition -- including from the city's famous yellow taxis.\r\nThe plan, similar to pricing long in … [+3585 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "ClaireC",
+    "title": "作業系統中所謂的 32 位元、64 位元代表什麼意思？",
+    "description": "作業系統（OS）是電腦裡硬體與軟體的橋樑，也是任何數位設備的重要組成部分，就像交響樂團的指揮一樣，確保無數組件之間的和諧通訊，使電腦可以順利運行。這些先進的軟體系統控制電腦的資源、管理記憶體、安排任務並處理設備的輸出與輸入，為使用者和機器之間的無縫互動鋪平坦途。你應該很常在聽到作業系統時後面會附加 32 位元（32-bit）或是 64 位元（64-bit），這次我們一起了解兩者各自代表的意義。\nThe post 作業系統中所謂的 32 位元、64 位元代表什麼意思？ appeared first on 電腦王阿達.",
+    "url": "https://www.kocpc.com.tw/archives/504164",
+    "urlToImage": "https://img.kocpc.com.tw/wp-content/uploads/2023/08/1691377192-4efdd2f969559e8b1c92e99f32ded48e.jpg",
+    "publishedAt": "2023-08-07T03:08:10Z",
+    "content": "OS 32 32-bit 64 64-bit\r\nMac Windows RAMCPU 32 64 \r\nCPU 64 CPU 32 32 CPU 32 \r\n 32 \r\n 32 CPU 1 32 CPU 32 RAM 4 GB\r\n16 16 32 32 1995 Windows 95 Windows 98Windows XP Windows 7 32 Mac OS X Leopard Apple 3… [+141 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "Ross Wang",
+    "title": "疑似 iPhone 15 Ultra 動作按鈕設計被實際保護殼揭秘，傳最快 9/12 發表",
+    "description": "有人在推特釋出了疑似 iPhone 15 Ultra 專用的皮革保護殼。算是再一次透過外在明顯可看出的設計變動，更加確認謠傳中的動作按鈕將要登場的可能性。繼續閱讀疑似 iPhone 15 Ultra 動作按鈕設計被實際保護殼揭秘，傳最快 9/12 發表報導內文。\nThe post 疑似 iPhone 15 Ultra 動作按鈕設計被實際保護殼揭秘，傳最快 9/12 發表 appeared first on 電腦王阿達.",
+    "url": "https://www.kocpc.com.tw/archives/504176",
+    "urlToImage": "https://img.kocpc.com.tw/wp-content/uploads/2023/08/1691381165-6f56ddc905da44a53744351fc788e8e6.jpg",
+    "publishedAt": "2023-08-07T04:19:56Z",
+    "content": "iPhone 15 Ultra iPhone 15 Ultra 9/12 Majin Bu\r\n iPhone 15 Ultra 9/12 \r\n iPhone 15 Apple Watch Ultra iPhone iPhone 15 Ultra \r\n iPhone 15 Ultra \r\nMajin Bu iPhone 15 Ultra / iPhone 15 Pro Max \r\n iPhone … [+1210 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNA"
+    },
+    "author": null,
+    "title": "New York drives towards first US congestion charge",
+    "description": "NEW YORK: New York wants to introduce car-loving America's first congestion charge, but the move faces fierce opposition - including from the city's famous yellow taxis. The plan, similar to pricing long in place in London and Singapore, aims to improve air q…",
+    "url": "https://www.channelnewsasia.com/world/usa-car-drivers-congestion-charges-3682021",
+    "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--z7U-owjd--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/ea96d9754c1fdfdd43d10cf5bef4ac80d454252b.jpg?itok=2pVnNueV",
+    "publishedAt": "2023-08-07T01:42:21Z",
+    "content": "NEW YORK: New York wants to introduce car-loving America's first congestion charge, but the move faces fierce opposition - including from the city's famous yellow taxis.\r\nThe plan, similar to pricing… [+1881 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gadget2ch.com"
+    },
+    "author": "Gadget 2ch",
+    "title": "【悲報】ワイ、iPhone 14 Pro Max (1TB) Apple Care+付き(239,800円)を一括払いで購入してしまうｗｗｗ",
+    "description": "う〜ん贅沢 1: 名無しさん＠おーぷん 23/08/06(日) 19:43:03 ID:tdGX.net むほほ   2: 名無しさん＠おーぷん 23/08...",
+    "url": "http://www.gadget2ch.com/archives/post-214316.html",
+    "urlToImage": "https://i0.wp.com/www.gadget2ch.com/wp-content/uploads/2023/08/iphone-14-pro-model-unselect-gallery-1-202209.jpeg-1.webp?fit=300%2C300",
+    "publishedAt": "2023-08-07T04:34:31Z",
+    "content": "1: 23/08/06() 19:43:03 ID:tdGX.net\r\n2: 23/08/06() 19:44:26 ID:tdGX.net\r\n3: 23/08/06() 19:44:54 ID:IuA3\r\n6: 23/08/06() 19:46:35 ID:tdGX.net\r\n13: 23/08/06() 19:48:45 ID:IuA3\r\n16: 23/08/06() 19:49:51 ID… [+1227 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Matometanews.com"
+    },
+    "author": "booq",
+    "title": "なんGのやつ「たぬきは世界的に見てマイナーな動物だから絵文字がない」　ワイ「はえー……ん？」",
+    "description": "1：2023/08/03(木) 16:18:13.95 ID:Y7Ik+KSp0←コイツは？2：2023/08/03(木) 16:18:29.46 ID:Y7Ik+KSp0←コイツも4：2023/08/03(木) 16:19:47.71 ID:6aWeQ4QNaこれ5：2023/08/03(木) 16:20:22.16 ID:hKBL46TkaONIはたまにホラー洋ゲーで見たりする転載元スレッド：http...",
+    "url": "http://matometanews.com/archives/2066749.html",
+    "urlToImage": "https://livedoor.blogimg.jp/booq/imgs/0/4/04270404.jpg",
+    "publishedAt": "2023-08-07T04:34:30Z",
+    "content": "12\r\nYouTuber\r\n72023/08/03() 16:21:09.98 ID:xDFBD0he0\r\n82023/08/03() 16:21:24.62 ID:f2VyG4aO0\r\n92023/08/03() 16:21:59.46 ID:B/osOVDD0\r\n102023/08/03() 16:22:27.05 ID:MPQPZEQh0\r\n112023/08/03() 16:22:41.… [+910 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Nyteknik.se"
+    },
+    "author": "TT",
+    "title": "Ai riskerar att bli en miljöbov",
+    "description": "En ökad ai-användning riskerar att bli ett bakslag för klimatet. Det är ju lite hajp nu och då är risken att man trampar fel och investerar i fel projekt, säger en professor vid Luleå tekniska universitet.",
+    "url": "https://www.nyteknik.se/tech/ai-riskerar-att-bli-en-miljobov/3928923",
+    "urlToImage": "https://image.nyteknik.se/3928928.webp?imageId=3928928&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683&format=jpg",
+    "publishedAt": "2023-08-07T05:39:39Z",
+    "content": "Den senaste tidens ai-boom har fört med sig en bred diskussion om vilka områden som främst kan komma att gynnas av tekniken. Det har varit tystare kring hur den ökade användningen av ai påverkar klim… [+2079 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Worldsoccertalk.com"
+    },
+    "author": "World Soccer Talk",
+    "title": "Where to find Liverpool vs Darmstadt on US TV",
+    "description": "Here are all of the details of where you can watch Liverpool vs Darmstadt 98 on US television and via legal streaming: WHO Liverpool vs Darmstadt 98 WHAT Friendly WHEN 2:00pm ET / 11:00am PT • Monday, August 7, 2023 WHERE CBS Sports Network, Fubo, and DirecTV…",
+    "url": "https://worldsoccertalk.com/tv/where-to-find-liverpool-vs-darmstadt-on-us-tv-20230807-WST-447918.html",
+    "urlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230807_WST_447918_lfc-darmstadt-friendly.jpg[ampersand]width=1200[ampersand]height=740",
+    "publishedAt": "2023-08-07T04:02:00Z",
+    "content": "Includes: Bundesliga &amp; La Liga\r\nSign Up"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Worldsoccertalk.com"
+    },
+    "author": "World Soccer Talk",
+    "title": "Where to find Bayern Munich vs Monaco on US TV",
+    "description": "Here are all of the details of where you can watch Bayern Munich vs Monaco on US television and via legal streaming: WHO Bayern Munich vs Monaco WHAT International Friendly WHEN 11:00am ET / 8:00am PT • Monday, August 7, 2023 WHERE FOX Deportes, Fubo, DirecTV…",
+    "url": "https://worldsoccertalk.com/tv/where-to-find-bayern-munich-vs-monaco-on-us-tv-20230807-WST-447917.html",
+    "urlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230807_WST_447917_bayern-monaco-friendly.jpg[ampersand]width=1200[ampersand]height=740",
+    "publishedAt": "2023-08-07T04:01:00Z",
+    "content": "Includes: Bundesliga &amp; La Liga\r\nSign Up"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Worldsoccertalk.com"
+    },
+    "author": "World Soccer Talk",
+    "title": "Where to find England vs Nigeria on US TV",
+    "description": "Here are all of the details of where you can watch England vs Nigeria on US television and via legal streaming: WHO England vs Nigeria WHAT FIFA Women's World Cup 2023 WHEN 3:30am ET / 12:30am PT • Monday, August 7, 2023 WHERE FS1, Universo, Telemundo, Fubo, …",
+    "url": "https://worldsoccertalk.com/tv/where-to-find-england-vs-nigeria-on-us-tv-20230807-WST-447916.html",
+    "urlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230807_WST_447916_eng-nga-wwc.jpg[ampersand]width=1200[ampersand]height=740",
+    "publishedAt": "2023-08-07T01:00:00Z",
+    "content": "Includes: Bundesliga &amp; La Liga\r\nSign Up"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cookingclassy.com"
+    },
+    "author": "Jaclyn",
+    "title": "Pickled Beets (Easy Refrigerator Method)",
+    "description": "Homemade Pickled Beets - Made the easy way in the fridge with no canning required and you only need 3 ingredients (plus salt and water)! Fresh beets are Homemade Pickled Beets that are the absolute best! They're made the easy way in the fridge with no canning…",
+    "url": "https://www.cookingclassy.com/pickled-beets/",
+    "urlToImage": "https://www.cookingclassy.com/wp-content/uploads/2023/08/pickled-beets-2.jpg",
+    "publishedAt": "2023-08-07T03:36:19Z",
+    "content": "Homemade Pickled Beets – Made the easy way in the fridge with no canning required and you only need 3 ingredients (plus salt and water)! Fresh beets are steamed or roasted then marinated in the fridg… [+7618 chars]"
+    }
+    ]    
+    }
